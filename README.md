@@ -19,3 +19,15 @@ relationships with each other.
 
 • Detail your research and implement the simulation in a Jupyter notebook – the
 data set itself can simply be displayed in an output cell within the notebook.
+
+
+# Data Preparation
+For this project I am using the Life expectancy data and build my own data set from it. 
+
+## Objective
+
+Life expectancy has been increasing in a steady pace from last century till now. Considering the same want to understand what will be our life expectancy in X + N years where x is the current year and n would be the number of years later we want to know. 
+
+
+#  Reference 
+1. https://ourworldindata.org/life-expectancy
