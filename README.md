@@ -85,3 +85,17 @@ Using Linear Regresssion techniques splitted the data and using the train test s
 3. https://erikrood.com/Python_References/
 4. https://machinelearningmastery.com/how-to-code-the-students-t-test-from-scratch-in-python/
 5. https://www.datascience.com/blog/introduction-to-correlation-learn-data-science-tutorials
+6. https://ourworldindata.org/ https://plot.ly/python/plot-data-from-csv/ 
+7. http://onlinestatbook.com/2/logic_of_hypothesis_testing/steps.html 
+8. https://www.khanacademy.org/math/statistics-probability/significance-tests-one-sample/idea-of-significance-tests/v/simple-hypothesis-testing![image.png](attachment:image.png) 
+9. https://www.kaggle.com/chrisbow/cleaning-data-with-python-challenge-day-1 
+10. https://www.dataquest.io/blog/data-cleaning-with-python/  
+11. http://www.statslab.cam.ac.uk/~rrw1/stats/Sa5.pdf![image.png](attachment:image.png)
+12. https://researchbasics.education.uconn.edu/t-test/# 
+13. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3900058/![image.png](attachment:image.png) 
+14. http://pytolearn.csd.auth.gr/d1-hyptest/12/ttest-1sample.html 
+15. http://www.learningaboutelectronics.com/Articles/How-to-plot-a-graph-with-matplotlib-from-data-from-a-CSV-file-using-the-CSV-module-in-Python.php![image.png](attachment:image.png)
+16. http://pytolearn.csd.auth.gr/d1-hyptest/12/ttest-paired.html![image.png](attachment:image.png) 
+17. https://medium.com/@sebastiannorena/finding-correlation-between-many-variables-multidimensional-dataset-with-python-5deb3f39ffb3 
+18. https://pythonhealthcare.org/tag/linear_regression/ 
+19. http://hamelg.blogspot.com/2015/11/python-for-data-analysis-part-27-linear.html 
